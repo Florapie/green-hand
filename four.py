@@ -1,7 +1,6 @@
 # /usr/bin/python
 
 'This is exercise-004: calculate number of each character in an English article'
-# this ia a simple line
 import os
 import numpy as np
 
