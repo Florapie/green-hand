@@ -1,4 +1,5 @@
-This repository contains python scripts about exercise: python练习册
+﻿This repository contains python scripts about exercise: python练习册
+I want to see if it can be shown in GitHubdesktop.
 
 echo "# green-hand" >> README.md
 echo "# web location https://github.com/Florapie/green-hand.git"
