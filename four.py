@@ -1,4 +1,4 @@
-# /usr/bin/python
+#!D:\Program Files\Python37
 
 'This is exercise-004: calculate number of each character in an English article'
 import os
@@ -29,3 +29,4 @@ def char_stat():
     
 if __name__=="__main__":
     char_stat()
+    input("press any key to exit;")
