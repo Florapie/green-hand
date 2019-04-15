@@ -1,0 +1,11 @@
+a="\tA\aA"
+b="B\bC"
+c="C\fD"
+d="D123\rE678"
+e="E\vF"
+print(1,a)
+print(2,b)
+print(3,c)
+print(4,d)
+print(5,e)
+print("A","\012","B")

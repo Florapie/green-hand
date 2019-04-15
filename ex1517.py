@@ -1,0 +1,12 @@
+f=open('test.txt','a+') #w will remove
+print(f.read())
+f.write("WRITE")
+# print('the read file:\n',f.read())
+# line1=input('line1: ')
+# line2=input('line2: ')
+# f.write(line1)
+# f.write("\n")
+# f.write(line2)
+# f.seek(0,0)
+# print('the write file:\n',f.read())
+f.close()
